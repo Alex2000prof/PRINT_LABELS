@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/">
+    <file>images/Code128.jpg</file>
+    <file>images/Qr_code_SelfieDuMacaque.png</file>
+  </qresource>
+</RCC>
